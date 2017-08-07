@@ -102,7 +102,7 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 * Geographically dispersed
 	* Front end -  Frisco and Austin, TX
 	* Backend - Halifax, NS
-	* React Native - Lafayette, Indianna
+	* React Native - Lafayette, Indiana
 
 ---
 
