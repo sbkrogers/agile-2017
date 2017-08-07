@@ -30,7 +30,8 @@ NO PLANNING!
 
 ### A brief  history
 -  'Agile' coined in 2001 in Utah [3]
-?image=images/agile_manifesto.png&size=contain
+- 
+-- ?image=images/agile_manifesto.png&size=contain
 
 ---
 
