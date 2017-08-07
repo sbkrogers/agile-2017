@@ -67,15 +67,15 @@ NO PLANNING!
 
 ---
 
-## API - smaple call
+## API - sample call
 ![Sample API Call](images/api_1.png)
 
 
 +++
-## API - Sample response
+## API - sample response
 ![Sample API Call](images/api_2.png)
 
-
+---
 
 ### Sample routes
 
@@ -121,6 +121,7 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 * [Presentation & Slides](https://www.gitpitch.com/sbkrogers/agile-2017) - https://www.gitpitch.com/sbkrogers/agile-2017
 * [Content](https://github.com/sbkrogers/agile-2017) - https://github.com/sbkrogers/agile-2017
 
+---
 
 ## Footnotes
 
