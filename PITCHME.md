@@ -12,7 +12,7 @@
 ---
 
 ### What is agile?
-> Agile software development describes a set of values and principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams.[1] It advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.[2]
+> Agile software development describes a set of values and principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. It advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.[1]
 
 ---
 
@@ -25,7 +25,7 @@ NO PLANNING!
 
 ### What is a practical definition?
 
-> Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end. [1]
+> Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end. [2]
 
 ---
 
@@ -56,7 +56,7 @@ NO PLANNING!
 ---
 
 ### Example Screen (2)
-![Schedule Example](images/schedule_2.png)
+---?image=images/schedule_2.png&size=contain
 
 ---
 
@@ -110,7 +110,7 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 ### Reasons and excuses
 1. Don't have training on how to write good user stories
-2. Don't know what our velicity is
+2. Don't know what our velocity is
 3. Everyone knows what done means
 4. How do you present an API?
 
