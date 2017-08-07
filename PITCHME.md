@@ -30,7 +30,6 @@ NO PLANNING!
 
 ### A brief  history
 -  'Agile' coined in 2001 in Utah [3]
-- 
 ---?image=images/agile_manifesto.png&size=contain
 
 ---
@@ -132,6 +131,7 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 * [Presentation & Slides](https://www.gitpitch.com/sbkrogers/agile-2017) - https://www.gitpitch.com/sbkrogers/agile-2017
 * [Content](https://github.com/sbkrogers/agile-2017) - https://github.com/sbkrogers/agile-2017
+* [12 Principles Behind the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/) - https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
 
 ---
 
