@@ -74,6 +74,7 @@ NO PLANNING!
 +++
 ## API - sample response
 ![Sample API Call](images/api_2.png)
++++?image=images/api_2.png&size=contain
 
 ---
 
