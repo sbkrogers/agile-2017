@@ -58,6 +58,18 @@ NO PLANNING!
 
 ---
 
+### Sample routes
+
+```
+Route::get('events', 'EventsController@getEvents'); // Get all Events or Filter on Criteria
+Route::post('events', 'EventsController@postEvents'); // Store a Event
+Route::get('events/{id}', 'EventsController@getEventsId'); // Get a single Event by id
+Route::put('events/{id}', 'EventsController@putEventsId'); // Update existing Events
+Route::delete('events/{id}', 'EventsController@deleteEventsId'); // Delete an Event
+```
+
+---
+
 ### Team makeup
 * Geographically dispersed
 * Front end -  Frisco and Austin, TX
