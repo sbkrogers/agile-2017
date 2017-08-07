@@ -50,6 +50,15 @@ NO PLANNING!
 * Front end written in Angular 2.0
 
 ---
+### Example Screen (1)
+![Schedule Example](images/schedule_1.png)
+
+---
+
+### Example Screen (2)
+![Schedule Example](images/schedule_2.png)
+
+---
 
 ### Backend
 * Backend written in PHP, Laravel 5.3
@@ -57,6 +66,16 @@ NO PLANNING!
 * Unit tests on backend using PHPUnit
 
 ---
+
+## API - smaple call
+![Sample API Call](images/api_1.png)
+
+
++++
+## API - Sample response
+![Sample API Call](images/api_2.png)
+
+
 
 ### Sample routes
 
@@ -75,9 +94,9 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 ### Team makeup
 * Geographically dispersed
-* Front end -  Frisco and Austin, TX
-* Backend - Halifax, NS
-* React Native - Lafayette, Indianna
+	* Front end -  Frisco and Austin, TX
+	* Backend - Halifax, NS
+	* React Native - Lafayette, Indianna
 
 ---
 
