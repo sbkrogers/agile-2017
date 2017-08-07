@@ -62,14 +62,14 @@ NO PLANNING!
 * Geographically dispersed
 * Front end -  Frisco and Austin, TX
 * Backend - Halifax, NS
-* React Native - Indianna
+* React Native - Lafayette, Indianna
 
 ---
 
 ### Lessons
 1. Garbage in, garbage out - good defined user stories are key
 2. Need to define a reasonable velocity for each sprint, not based on timelines.
-3. Need to define what "done means" for the team
+3. Need to define what "done means" for the team.
 4. Need to present at the end of each sprint.
 
 ---
