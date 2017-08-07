@@ -8,7 +8,6 @@
 3. Why did we decide to do agile?
 4. What did we do right?
 5. What should we have done better?
-6. 
 
 ---
 
@@ -19,5 +18,13 @@
 
 ---
 
-### What does agile really mean?  
+### What does agile really mean?
 NO PLANNING!
+
+![oh the horror](images/oh-the-horror.jpg)
+---
+
+## Resources
+
+* [Presentation & Slides](https://www.gitpitch.com/sbkrogers/agile-2017) - https://www.gitpitch.com/sbkrogers/agile-2017
+* [Content](https://github.com/sbkrogers/agile-2017) - https://github.com/sbkrogers/agile-2017
