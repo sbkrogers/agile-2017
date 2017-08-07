@@ -1,4 +1,3 @@
----
 # Agile - Deveast - 2017-08-07
 ---
 ## Topics
@@ -26,6 +25,12 @@ NO PLANNING!
 ### What is a practical definition?
 
 > Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end. [2]
+
+---
+
+### A brief  history
+-  'Agile' coined in 2001 in Utah [3]
+?image=images/agile_manifesto.png&size=contain
 
 ---
 
@@ -101,6 +106,11 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 ---
 
+## What worked well
+1. Daily standups
+2. Sprint planning (eventually)
+3. Sprint retrospectives (eventually)
+
 ### Lessons
 1. Garbage in, garbage out - good defined user stories are key
 2. Need to define a reasonable velocity for each sprint, not based on timelines.
@@ -128,3 +138,4 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 * [1] https://en.wikipedia.org/wiki/Agile_software_development
 * [2] http://www.agilenutshell.com
+* [3] https://www.agilealliance.org/agile101/the-agile-manifesto/
