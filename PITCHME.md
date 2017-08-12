@@ -38,6 +38,8 @@ NO PLANNING!
 1. Time-boxed
 2. Iterative
 3. Software delivered incrementally
+4. Feedback loops are an important part
+5. People over process
 
 ---
 
@@ -115,7 +117,9 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 1. Garbage in, garbage out - good defined user stories are key
 2. Need to define a reasonable velocity for each sprint, not based on timelines.
 3. Need to define what "done means" for the team.
-4. Need to present at the end of each sprint.
+4. Need to present at the end of each sprint & do walk throughs.
+5. Still need to ensure that proper environments are setup
+6. Need to ensure that cards are moved properly through QA/QC
 
 ---
 
