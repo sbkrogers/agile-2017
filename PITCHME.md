@@ -60,6 +60,7 @@ NO PLANNING!
 * Restful API
 * Built on an existing system
 
+---
 
 ### Front end
 * Front end written in Angular 2.0
