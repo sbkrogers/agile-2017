@@ -143,7 +143,12 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 ---
 
-### Question - what is "architecture in Agile?
+### Question - what is "architecture" in Agile?
+---
+
+### Question - what is "architecture"?
+
+* The important pieces
 ---
 
 ## Resources
