@@ -122,6 +122,8 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 2. Sprint planning (eventually)
 3. Sprint retrospectives (eventually)
 
+---
+
 ### Lessons
 1. Garbage in, garbage out - good defined user stories are key
 2. Need to define a reasonable velocity for each sprint, not based on timelines.
