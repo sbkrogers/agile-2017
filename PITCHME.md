@@ -149,6 +149,11 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 ### Question - what is "architecture"?
 
 * The important pieces
+
+---
+
+### The end...?
+
 ---
 
 ## Resources
