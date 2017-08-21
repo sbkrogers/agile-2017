@@ -126,9 +126,9 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 
 ### Lessons
 1. Garbage in, garbage out - good defined user stories are key
-2. Need to define a reasonable velocity for each sprint, not based on timelines.
-3. Need to define what "done means" for the team.
-4. Need to present at the end of each sprint & do walk throughs.
+2. Need to define a reasonable velocity for each sprint, not based on timelines
+3. Need to define what "done means" for the team
+4. Need to present at the end of each sprint & do walk throughs
 5. Still need to ensure that proper environments are setup
 6. Need to ensure that cards are moved properly through QA/QC
 
