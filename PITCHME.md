@@ -53,6 +53,14 @@ NO PLANNING!
 
 ---
 
+### Sports scheduling software
+* Web based software as a service
+* Allows administrators to create schedules, matchups, teams
+* Separate front end and back end teams
+* Restful API
+* Built on an existing system
+
+
 ### Front end
 * Front end written in Angular 2.0
 
@@ -128,8 +136,11 @@ Route::delete('events/{id}', 'EventsController@deleteEventsId');
 2. Don't know what our velocity is
 3. Everyone knows what done means
 4. How do you present an API?
+5. API not clearly defined the start
 
 ---
+
+### Question - what is "architecture in Agile?
 
 ## Resources
 
