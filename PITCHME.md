@@ -1,4 +1,4 @@
-# Agile - Deveast - 2017-08-07
+# Agile - Deveast - 2017-08-21
 ---
 ## Topics
 
